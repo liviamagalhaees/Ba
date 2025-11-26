@@ -1,12 +1,12 @@
 # Cadastro Clinica Glow 🚀
 Sistema simples de cadastro de clientes em Python com Tkinter e SQLite3, que registra dados, calcula IMC e permite inserir, atualizar e deletar clientes.
 
-### ⚡ Como fazer funcionar na sua máquina:
+# ⚡ Como fazer funcionar na sua máquina:
 - Instale Python 3 na sua máquina;
 - Clone o repositório;
 - Execute o arquivo `.py` com:
   ```bash
-  python nome_do_arquivo.py
+  python Glow.py
 Pré-requisitos do sistema:
 Python 3
 Tkinter (já vem com Python)
