@@ -3,7 +3,7 @@ Sistema simples de cadastro de clientes em Python com Tkinter e SQLite3, que reg
 
 # ⚡ Como fazer funcionar na sua máquina:
 - Instale Python 3 na sua máquina;
-- Clone o repositório;
+  Clone o repositório:
 - Execute o arquivo `.py` com:
   ```bash
   python Glow.py
